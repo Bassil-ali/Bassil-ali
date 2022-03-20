@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.bassiali.com](https://www.bassiali.com)
 
-- 📫 How to reach me **baselali337@gmail.com**
+- 📫 How to reach me **bassil999@bassilali.com**
 
 - 📄 Know about my experiences [https://www.bassiali.com](https://www.bassiali.com)
 
