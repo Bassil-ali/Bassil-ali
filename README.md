@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bassilali15" target="blank"><img src="https://img.shields.io/twitter/follow/bassilali15?logo=twitter&style=for-the-badge" alt="bassilali15" /></a> </p>
 
-- 👨‍💻 All of my projects are available at <a color="green" href="https://www.bassiali.com"></a>
+- 👨‍💻 All of my projects are available at [https://www.bassiali.com]
 
 - 📫 How to reach me **bassil999@bassilali.com**
 
