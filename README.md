@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [**bassil999@bassilali.com**]
 
-- 📄 Know about my experiences [[https://www.bassiali.com](https://www.bassiali.com)]
+- 📄 Know about my experiences [[https://www.bassilali.com](https://www.bassiali.com)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
