@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bassil ali</h1>
+<a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
 <h3 align="center">Backend developer and frontend developer</h3>
 
 <p align="left"> <img style="margine-left:2px;" src="https://komarev.com/ghpvc/?username=bassil-ali&label=Profile%20views&color=0e75b6&style=flat" alt="bassil-ali" /> </p>
