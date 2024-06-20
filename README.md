@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bassil ali</h1>
+<h1 align="center">Hi 👋, I'm Basel ali</h1>
 <a href="bassilali.com" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
 <h3 align="center">Backend developer and frontend developer</h3>
 
