@@ -1,16 +1,8 @@
 <h1 align="center">Hi 👋, I'm Basel ali</h1>
-<a href="bassilali.com" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-<h3 align="center">Backend developer and frontend developer</h3>
 
-<p align="left"> <img style="margine-left:2px;" src="https://komarev.com/ghpvc/?username=bassil-ali&label=Profile%20views&color=0e75b6&style=flat" alt="bassil-ali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bassil-ali" alt="bassil-ali" style="margin-left:5px;" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bassilali15" target="blank"><img src="https://img.shields.io/twitter/follow/bassilali15?logo=twitter&style=for-the-badge" alt="bassilali15" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://www.bassilali.com]
-
-- 📫 How to reach me [**bassil999@bassilali.com**]
+- 📫 How to reach me [**baselali337@gmail.com**]
 
 - 📄 Know about my experiences [[https://www.bassilali.com](https://www.bassiali.com)]
 
