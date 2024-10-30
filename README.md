@@ -4,7 +4,6 @@
 
 - 📫 How to reach me [**baselali337@gmail.com**]
 
-- 📄 Know about my experiences [[https://www.bassilali.com](https://www.bassiali.com)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
